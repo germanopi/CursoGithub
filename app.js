@@ -4,7 +4,7 @@
 
 alert("Hello World"); // Abre um pop-up para o usuario
 
-let numeroMaximo = 5000;
+let numeroMaximo = 1000;
 let numeroSecretoaleatorio = parseInt(Math.random() * numeroMaximo + 1); // Gera um numero aleatorio entre 1 e um numeroMaximo
 let entradadoUsuario; // Declara a variavel que vai receber o numero digitado pelo usuario
 let tentativas = 0; // Declara a variavel que vai contar o numero de tentativas
