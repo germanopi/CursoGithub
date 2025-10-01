@@ -121,5 +121,5 @@ Ideal para usar como referência rápida ou README de estudo.
 **git notes** — Adiciona anotações extras aos commits.  
 **git submodule** — Gerencia repositórios Git dentro de outro repositório.  
 **git subtree** — Inclui outro repositório como uma subpasta versionada.  
-**git help <comando> - Abre a documentação oficial do comando
----
+**git help <comando>** - Abre a documentação oficial do comando
+
